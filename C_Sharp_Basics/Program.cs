@@ -6,8 +6,7 @@ namespace C_Sharp_Basics
     {
         static void Main(string[] args)
         {
-            string MyName;
-            MyName = "Dmitrii";
+            string MyName = "Dmitrii";
             Console.WriteLine(MyName);
         }
     }
